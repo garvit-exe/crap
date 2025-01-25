@@ -1,0 +1,10 @@
+Hello, World! This is a test file.
+The quick brown fox jumps over the lazy dog.
+Rust is a systems programming language focused on safety and performance.
+Regex is a powerful tool for pattern matching.
+Grep is a command-line utility for searching plain-text data for lines matching a regular expression.
+The fox and the dog are great friends.
+Systems programming can be challenging, but rewarding.
+Pattern matching in Rust is concise and expressive.
+Rustaceans love writing code with safety in mind.
+The dog barked at the fox.
